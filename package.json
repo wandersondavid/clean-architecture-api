@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/WandersonDavid/clean-architecture-api/issues"
   },
-  "homepage": "https://github.com/WandersonDavid/clean-architecture-api#readme"
+  "homepage": "https://github.com/WandersonDavid/clean-architecture-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
