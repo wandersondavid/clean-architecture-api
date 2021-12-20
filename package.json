@@ -1,0 +1,20 @@
+{
+  "name": "clean-architecture-api",
+  "version": "1.0.0",
+  "description": "Projeto para estudo sobre clean architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WandersonDavid/clean-architecture-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WandersonDavid/clean-architecture-api/issues"
+  },
+  "homepage": "https://github.com/WandersonDavid/clean-architecture-api#readme"
+}
